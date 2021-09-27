@@ -24,4 +24,4 @@ I'm not really familiar with `git` commands, so I have to use the [Cheat Sheet](
 - [x] lab1
 - [ ] personal statement
 
-![Selfie](https://www.pinterest.com/pin/667799450968602757/)
+![Selfie](Selfie.jpg)
