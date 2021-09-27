@@ -4,7 +4,7 @@ Hello everyone, **my name is _Ziyan Sui_**
 
 I love and hate computer science at the same time
 > Believe many of you are the same
-> 
+
 For example, right now I'm using a lot of `git` commands
 
 I'm not really familiar with `git` commands, so I have to use the [Cheat Sheet](http://guides.beanstalkapp.com/version-control/common-git-commands.html).
